@@ -1,2 +1,2 @@
 # Weather_data_analysis
-Analsis de datos extraidos de una estacion meteorologica. EDA.
+Análisis de datos extraidos de una estacion meteorologica. EDA.
